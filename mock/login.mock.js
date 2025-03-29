@@ -30,7 +30,7 @@ export default defineBaseUrlMock([
                     id: 'xxxxx',
                     name: `Admin`,
                 },
-                permissions: [],
+                menus: [],
             },
         },
     },

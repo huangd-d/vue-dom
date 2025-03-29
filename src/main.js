@@ -7,6 +7,8 @@ import App from './App.vue'
 import i18n from './I18n/index.js'
 import router from './router'
 
+import "./permission.js"
+
 const app = createApp(App)
 
 app.use(createPinia())
